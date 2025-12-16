@@ -1,1 +1,1 @@
-# NeuralNetwork-C-
+# NeuralNetwork in C#
