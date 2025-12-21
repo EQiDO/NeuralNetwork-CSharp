@@ -1,0 +1,102 @@
+D:\Dotnet Projects\Deep Learning\MLP\obj\Debug\net10.0\MLP.csproj.AssemblyReference.cache
+D:\Dotnet Projects\Deep Learning\MLP\obj\Debug\net10.0\MLP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Projects\Deep Learning\MLP\obj\Debug\net10.0\MLP.AssemblyInfoInputs.cache
+D:\Dotnet Projects\Deep Learning\MLP\obj\Debug\net10.0\MLP.AssemblyInfo.cs
+D:\Dotnet Projects\Deep Learning\MLP\obj\Debug\net10.0\MLP.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\MLP.exe
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\MLP.deps.json
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\MLP.runtimeconfig.json
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\MLP.dll
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\MLP.pdb
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\MathNet.Numerics.dll
+D:\Dotnet Projects\Deep Learning\MLP\obj\Debug\net10.0\MLP.csproj.Up2Date
+D:\Dotnet Projects\Deep Learning\MLP\obj\Debug\net10.0\MLP.dll
+D:\Dotnet Projects\Deep Learning\MLP\obj\Debug\net10.0\refint\MLP.dll
+D:\Dotnet Projects\Deep Learning\MLP\obj\Debug\net10.0\MLP.pdb
+D:\Dotnet Projects\Deep Learning\MLP\obj\Debug\net10.0\MLP.genruntimeconfig.cache
+D:\Dotnet Projects\Deep Learning\MLP\obj\Debug\net10.0\ref\MLP.dll
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\HarfBuzzSharp.dll
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\ScottPlot.dll
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\SkiaSharp.dll
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\SkiaSharp.HarfBuzz.dll
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libSkiaSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libSkiaSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-riscv64\native\libSkiaSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\linux-x86\native\libSkiaSharp.so
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Dotnet Projects\Deep Learning\MLP\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\MLP.exe
+D:\DotnetProjects\MLP\bin\Debug\net10.0\MLP.deps.json
+D:\DotnetProjects\MLP\bin\Debug\net10.0\MLP.runtimeconfig.json
+D:\DotnetProjects\MLP\bin\Debug\net10.0\MLP.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\MLP.pdb
+D:\DotnetProjects\MLP\bin\Debug\net10.0\HarfBuzzSharp.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\MathNet.Numerics.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\ScottPlot.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\SkiaSharp.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\SkiaSharp.HarfBuzz.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libSkiaSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libSkiaSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-riscv64\native\libSkiaSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\linux-x86\native\libSkiaSharp.so
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\DotnetProjects\MLP\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\DotnetProjects\MLP\obj\Debug\net10.0\MLP.csproj.AssemblyReference.cache
+D:\DotnetProjects\MLP\obj\Debug\net10.0\MLP.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetProjects\MLP\obj\Debug\net10.0\MLP.AssemblyInfoInputs.cache
+D:\DotnetProjects\MLP\obj\Debug\net10.0\MLP.AssemblyInfo.cs
+D:\DotnetProjects\MLP\obj\Debug\net10.0\MLP.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\MLP\obj\Debug\net10.0\MLP.csproj.Up2Date
+D:\DotnetProjects\MLP\obj\Debug\net10.0\MLP.dll
+D:\DotnetProjects\MLP\obj\Debug\net10.0\refint\MLP.dll
+D:\DotnetProjects\MLP\obj\Debug\net10.0\MLP.pdb
+D:\DotnetProjects\MLP\obj\Debug\net10.0\MLP.genruntimeconfig.cache
+D:\DotnetProjects\MLP\obj\Debug\net10.0\ref\MLP.dll
